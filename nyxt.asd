@@ -160,6 +160,7 @@
                (:file "macro-edit-mode")
                (:file "status")
                ;; Depends on everything else:
+               (:file "web-extensions")
                (:file "about")
                (:file "start")
                (:file "tutorial")
